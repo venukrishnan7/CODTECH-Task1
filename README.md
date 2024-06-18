@@ -56,7 +56,8 @@ An Arduino-based weather station is a project that involves using Arduino microc
    - Update the code or hardware as required for improved accuracy or additional features.
 
 An Arduino-based weather station is a versatile project that can be expanded with additional sensors and features as needed. It provides practical hands-on experience with electronics, programming, and data analysis, making it an excellent educational project.
-![Uploading image.png…]()
+![image](https://github.com/venukrishnan7/CODTECH-Task1/assets/166130280/6106d57e-06cb-4c26-b8b2-1c88565e8b07)
+
 
 
 
